@@ -1,0 +1,40 @@
+VirtualBox COM Server 5.2.16 r123759 win.amd64 (Jul 16 2018 15:52:14) release log
+00:00:00.005000 main     Log opened 2018-07-18T17:40:56.022239000Z
+00:00:00.005000 main     Build Type: release
+00:00:00.005000 main     OS Product: Windows 7
+00:00:00.005000 main     OS Release: 6.1.7601
+00:00:00.005000 main     OS Service Pack: 1
+00:00:00.047002 main     DMI Product Name: Latitude E5410
+00:00:00.063003 main     DMI Product Version: 0001
+00:00:00.063003 main     Host RAM: 3893MB (3.8GB) total, 1529MB available
+00:00:00.063003 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.063003 main     Process ID: 3036
+00:00:00.063003 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.069003          VirtualBox: object creation starts
+00:00:00.070004          Home directory: 'C:\Users\sh\.VirtualBox'
+00:00:00.071004          Installed Drivers:
+00:00:00.081004            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 5.2.16.23759)
+00:00:00.081004            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 5.2.16.23759)
+00:00:00.082004            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 5.2.16.23759)
+00:00:00.082004            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 5.2.16.23759)
+00:00:00.544031          HostDnsMonitorProxy::notify
+00:00:00.662037          VD: VDInit finished with VINF_SUCCESS
+00:00:00.666038          VirtualBox: object created
+00:01:17.395426 dns-monitor HostDnsMonitor: old information
+00:01:17.395426 dns-monitor   no server entries
+00:01:17.395426 dns-monitor   no domain set
+00:01:17.395426 dns-monitor   no search string entries
+00:01:17.395426 dns-monitor HostDnsMonitor: new information
+00:01:17.395426 dns-monitor   server 1: 202.88.174.6
+00:01:17.395426 dns-monitor   server 2: 202.88.174.8
+00:01:17.395426 dns-monitor   no domain set
+00:01:17.395426 dns-monitor   no search string entries
+00:01:17.396426 dns-monitor HostDnsMonitorProxy::notify
+00:05:09.561705          Saving settings file "C:\Users\sh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:05:09.656711          Saving settings file "C:\Users\sh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:29:18.857193          Saving settings file "C:\Users\sh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:29:19.122394          Saving settings file "C:\Users\sh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:29:19.200394          Saving settings file "C:\Users\sh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:29:25.908405 main     VirtualBox: object deletion starts
+01:29:25.986406 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={9570b9d5-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:29:26.017606 main     VirtualBox: object deleted
